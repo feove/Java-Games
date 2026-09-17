@@ -24,7 +24,7 @@ Challenge the bot in this classic hand game. Best of luck!
 
 ![ShiFuMi Gameplay](.github/shifumi_screenshot.png)
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Java 21 or higher
@@ -37,11 +37,6 @@ java -version
 
 ### Running the Games
 
-```bash
-cd <Game Directory>
-```
-
-### Run with
 ```bash
 make run
 ```
