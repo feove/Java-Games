@@ -2,7 +2,7 @@
 
 A collection of classic terminal-based games written in Java - perfect for quick breaks or nostalgic gaming sessions.
 
-## 🎮 Games Included
+## Games Included
 
 ### 1. Tic-Tac-Toe
 The timeless grid battle against a bot opponent.
